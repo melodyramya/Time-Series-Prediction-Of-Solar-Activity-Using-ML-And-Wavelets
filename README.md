@@ -1,0 +1,1 @@
+# Time-Series-Prediction-Of-Solar-Activity-Using-ML-And-Wavelets
